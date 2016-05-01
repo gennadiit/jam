@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleJam_Problem1", "GoogleJam_Problem1.vcxproj", "{3BCED51E-2E06-4C86-BB65-5A8953557E76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestGen", "..\TestGen\TestGen\TestGen.vcxproj", "{D66DDCEA-1048-4502-8084-07055F54A769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|Win32.Build.0 = Debug|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|Win32.Deploy.0 = Debug|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|x64.ActiveCfg = Debug|x64
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Debug|x64.Build.0 = Debug|x64
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|Win32.ActiveCfg = Release|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|Win32.Build.0 = Release|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|Win32.Deploy.0 = Release|Win32
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|x64.ActiveCfg = Release|x64
+		{3BCED51E-2E06-4C86-BB65-5A8953557E76}.Release|x64.Build.0 = Release|x64
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Debug|Win32.Build.0 = Debug|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Debug|x64.ActiveCfg = Debug|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Release|Win32.ActiveCfg = Release|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Release|Win32.Build.0 = Release|Win32
+		{D66DDCEA-1048-4502-8084-07055F54A769}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
